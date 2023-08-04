@@ -1,6 +1,5 @@
 
 
-
 from PIL import Image
 import requests
 import streamlit as st
